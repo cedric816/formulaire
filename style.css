@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 100vh; 
+    margin:0;
+    padding:0;  
+}
+.container{
+    float: left;
+    height: 100vh;
+    width: 350px;
+    margin: 30px;   
+}
+fieldset{
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 5px;
+}
+legend{
+    font-weight: bold;
+}
+.source{
+    font-style: italic;
+}
+h1{
+    font-size: 20px;
+    font-style: italic;
+}
+#bloc1, #bloc2, #bloc3, #bloc0{
+    float: left;
+    margin-top: 30px;
+    width: 500px;
+    min-height: 100vh;
+}
+p{
+    margin-top: 20px;
+    background-color: lightgrey;
+}
+
+
+
